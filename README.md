@@ -1,7 +1,7 @@
 <h2> 🙋‍♂️ About Me </h2>
 
 - `2024.07 ~ ing` - SSAFY 12th
-- `2018.03 ~ 2024.08` - Majoring MIS & Computer Science at Kookmin Univ
+- `2018.03 ~ 2024.08` - Majoring MIS & Computer Science at Kookmin Univ.
 
 
 <br/><br/><h2> 🛠️ Stacks </h2>
